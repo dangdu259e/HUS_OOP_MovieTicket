@@ -1,4 +1,4 @@
-﻿# App-book-movie-ticket-booking
+﻿# App-book-movie-ticket
 ## Đây là dự án cuối kì môn Lập trình hướng đối tượng tại trường Đại học Khoa học Tự Nhiên
 ### Người thực hiện: 
                     Sinh viên: Đặng Trung Du_18001108
